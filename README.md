@@ -1,5 +1,4 @@
 USTH Advanced Programming with Python 2026
 ==================================
-
-* Your name here
-* Your ID here
+Name: Nguyễn Thế Hải Đăng
+ID : Nguyễn Thế Hải Đăng
